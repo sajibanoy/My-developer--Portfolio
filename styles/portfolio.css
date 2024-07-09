@@ -6,6 +6,9 @@
       "wdth" 100;
 }
 /* shared styles */
+.text-center{
+    text-align: center;
+}
 .header-secondary-bg{
     background-color: #FFF8F3;
     
@@ -119,4 +122,10 @@ main{
 .item-description{
     font-weight: bold;
     font-size: 20px;
+}
+.skills p{
+    padding: 30px 118px;
+}
+.skills h3{
+    margin-top: 118px;
 }
